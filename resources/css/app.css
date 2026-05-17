@@ -1,0 +1,15 @@
+.form-control.red-border {
+    width: 100%; /* Pastikan lebar dropdown sesuai kontainer */
+    max-width: 350px; /* Menetapkan lebar maksimum untuk dropdown */
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.form-control.red-border option {
+    white-space: nowrap; /* Menghindari pemecahan teks ke baris baru */
+}
+
+.d-flex {
+    justify-content: flex-start;
+}

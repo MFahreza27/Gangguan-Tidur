@@ -139,22 +139,6 @@ npm run dev
 php artisan serve
 ```
 
-Akses aplikasi di: **http://localhost:8000**
-
----
-
-## 👥 Akun Default
-
-Setelah menjalankan seeder, akun berikut tersedia:
-
-| Role | Email | Password |
-|------|-------|----------|
-| Admin | admin@sigatur.com | password |
-| User | user@sigatur.com | password |
-
-> ⚠️ Segera ganti password setelah login pertama kali.
-
----
 
 ## 📁 Struktur Direktori Penting
 
@@ -210,8 +194,3 @@ sigatur/
 
 Proyek ini dibuat untuk keperluan akademik. Silakan gunakan dan modifikasi sesuai kebutuhan.
 
----
-
-## 👨‍💻 Developer
-
-**M. Fahreza** — [@MFahreza27](https://github.com/MFahreza27)
